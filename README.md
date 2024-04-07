@@ -1,6 +1,7 @@
 # Julworks Calculator
 
 This is a simple calculator application developed in Python using the Tkinter library. It provides basic arithmetic operations along with trigonometric functions such as sine, cosine, and tangent. Additionally, it allows users to navigate through the input field using arrow buttons.
+Project created in the second year of high school in the [NSI speciality at Lycée Jean de Pange](http://lycee-jean-de-pange.fr/la-specialite-nsi)
 
 ## Features
 
