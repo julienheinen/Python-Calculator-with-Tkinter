@@ -50,7 +50,7 @@ To run the calculator, execute the Python script `calculette.py`. The graphical 
 You can clone this repository to your local machine using:
 
 ```bash
-git clone https://github.com/julienheinen/calculator.git
+git clone https://github.com/julienheinen/Python-Calculator-with-Tkinter
 ```
 
 ## Contributing
