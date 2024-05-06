@@ -1,3 +1,5 @@
+  <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo"  />
+
 # Julworks Calculator
 
 This is a simple calculator application developed in Python using the Tkinter library. It provides basic arithmetic operations along with trigonometric functions such as sine, cosine, and tangent. Additionally, it allows users to navigate through the input field using arrow buttons.
